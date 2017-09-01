@@ -9,7 +9,7 @@ Robótica
 ReadMe del primer proyecto de Robótica.
 Se utilizó Ubuntu 16.04 LTS y ROS Kinetic como entorno para este proyecto.
 
-En el repositorio de gitHub llamado Robotica creado por Juliosnchz se encuentra la carpeta src en la que se encuentra el proyecto, llamada proyecto1, hay que clonar la carpeta completa src al espacio de trabajo de ROS de la computadora.
+En el repositorio de gitHub llamado Robotica creado por Juliosnchz se encuentra la carpeta Robotica,que es en la que se encuentra el proyecto, llamada proyecto1, hay que mover lo que hay dentro de esa carpeta (srs y Readme) al espacio de trabajo de ROS de la computadora, junto con el build y devel y borrar la carpeta Robotica.
 Posteriormente hay que hacer el catkin_make desde el workspace.
 Correr el source devel/setup.bash.
 Se corre el roscore
